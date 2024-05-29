@@ -1,0 +1,121 @@
+Anno,Area di specializzazione clinica,Giornate,Regiorni
+2020,per acuti,2708370,Piemonte
+2020,lungodegenza,255656,Piemonte
+2020,riabilitazione,803542,Piemonte
+2021,per acuti,2836201,Piemonte
+2021,lungodegenza,219287,Piemonte
+2021,riabilitazione,825502,Piemonte
+2020,per acuti,101538,Valle d'Aosta
+2020,lungodegenza,2504,Valle d'Aosta
+2020,riabilitazione,10602,Valle d'Aosta
+2021,per acuti,107787,Valle d'Aosta
+2021,lungodegenza,0,Valle d'Aosta
+2021,riabilitazione,15393,Valle d'Aosta
+2020,per acuti,1162099,Liguria
+2020,lungodegenza,60905,Liguria
+2020,riabilitazione,172261,Liguria
+2021,per acuti,1181012,Liguria
+2021,lungodegenza,40972,Liguria
+2021,riabilitazione,177144,Liguria
+2020,per acuti,6585557,Lombardia
+2020,lungodegenza,102639,Lombardia
+2020,riabilitazione,1671712,Lombardia
+2021,per acuti,6614192,Lombardia
+2021,lungodegenza,114421,Lombardia
+2021,riabilitazione,1604773,Lombardia
+2020,per acuti,666856,Trentino Alto Adige
+2020,lungodegenza,94206,Trentino Alto Adige
+2020,riabilitazione,153173,Trentino Alto Adige
+2021,per acuti,687446,Trentino Alto Adige
+2021,lungodegenza,94165,Trentino Alto Adige
+2021,riabilitazione,169037,Trentino Alto Adige
+2020,per acuti,3454050,Veneto
+2020,lungodegenza,122131,Veneto
+2020,riabilitazione,525635,Veneto
+2021,per acuti,3516386,Veneto
+2021,lungodegenza,46886,Veneto
+2021,riabilitazione,492229,Veneto
+2020,per acuti,866124,Friuli Venezia Giulia
+2020,lungodegenza,17543,Friuli Venezia Giulia
+2020,riabilitazione,62554,Friuli Venezia Giulia
+2021,per acuti,912196,Friuli Venezia Giulia
+2021,lungodegenza,17607,Friuli Venezia Giulia
+2021,riabilitazione,30109,Friuli Venezia Giulia
+2020,per acuti,3381067,Emilia Romagna
+2020,lungodegenza,480081,Emilia Romagna
+2020,riabilitazione,396723,Emilia Romagna
+2021,per acuti,3607058,Emilia Romagna
+2021,lungodegenza,445447,Emilia Romagna
+2021,riabilitazione,385299,Emilia Romagna
+2020,per acuti,2225143,Toscana
+2020,lungodegenza,30934,Toscana
+2020,riabilitazione,195820,Toscana
+2021,per acuti,2371754,Toscana
+2021,lungodegenza,31960,Toscana
+2021,riabilitazione,201337,Toscana
+2020,per acuti,582598,Umbria
+2020,lungodegenza,15438,Umbria
+2020,riabilitazione,85500,Umbria
+2021,per acuti,628429,Umbria
+2021,lungodegenza,15193,Umbria
+2021,riabilitazione,85392,Umbria
+2020,per acuti,959598,Marche
+2020,lungodegenza,65156,Marche
+2020,riabilitazione,134757,Marche
+2021,per acuti,982023,Marche
+2021,lungodegenza,55639,Marche
+2021,riabilitazione,132422,Marche
+2020,per acuti,3611107,Lazio
+2020,lungodegenza,184784,Lazio
+2020,riabilitazione,738035,Lazio
+2021,per acuti,3786927,Lazio
+2021,lungodegenza,173038,Lazio
+2021,riabilitazione,724199,Lazio
+2020,per acuti,799718,Abruzzo
+2020,lungodegenza,27869,Abruzzo
+2020,riabilitazione,125051,Abruzzo
+2021,per acuti,862894,Abruzzo
+2021,lungodegenza,24768,Abruzzo
+2021,riabilitazione,125770,Abruzzo
+2020,per acuti,188652,Molise
+2020,lungodegenza,771,Molise
+2020,riabilitazione,35453,Molise
+2021,per acuti,195071,Molise
+2021,lungodegenza,727,Molise
+2021,riabilitazione,34162,Molise
+2020,per acuti,2664260,Campania
+2020,lungodegenza,124666,Campania
+2020,riabilitazione,348354,Campania
+2021,per acuti,2841771,Campania
+2021,lungodegenza,123356,Campania
+2021,riabilitazione,387281,Campania
+2020,per acuti,2191514,Puglia
+2020,lungodegenza,42801,Puglia
+2020,riabilitazione,310374,Puglia
+2021,per acuti,2373392,Puglia
+2021,lungodegenza,34170,Puglia
+2021,riabilitazione,316614,Puglia
+2020,per acuti,282955,Basilicata
+2020,lungodegenza,25366,Basilicata
+2020,riabilitazione,31617,Basilicata
+2021,per acuti,300020,Basilicata
+2021,lungodegenza,30555,Basilicata
+2021,riabilitazione,32695,Basilicata
+2020,per acuti,767089,Calabria
+2020,lungodegenza,27880,Calabria
+2020,riabilitazione,169156,Calabria
+2021,per acuti,828681,Calabria
+2021,lungodegenza,45787,Calabria
+2021,riabilitazione,177648,Calabria
+2020,per acuti,2520019,Sicilia
+2020,lungodegenza,77748,Sicilia
+2020,riabilitazione,474191,Sicilia
+2021,per acuti,2768511,Sicilia
+2021,lungodegenza,63527,Sicilia
+2021,riabilitazione,483568,Sicilia
+2020,per acuti,946834,Sardegna
+2020,lungodegenza,41727,Sardegna
+2020,riabilitazione,61598,Sardegna
+2021,per acuti,1036930,Sardegna
+2021,lungodegenza,32675,Sardegna
+2021,riabilitazione,78389,Sardegna
