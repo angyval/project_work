@@ -1,0 +1,3 @@
+from .posti_letto_service import get_posti_by_anno_service
+from .giornate_degenza_service import get_giornate_by_regione_service
+from .regioni_service import get_regioni_dati_service
