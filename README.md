@@ -45,3 +45,10 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 
 ![Immagine fasi](images/fasi.png)
 
+### **Analisi**
+
+- Recupero dati dalla Banca Dati ISTAT(Istituto Nazionale di Statistica):
+    - Primo dataset: posti letto, area di specializzazione clinica, giornate di degenza.
+    - Secondo dataset: popolazione divisa per età e genere.
+- Data Cleaning con le best practices.
+- Analisi statistica: correlazione e regressione lineare per valutare grado di dipendenze delle variabili.
