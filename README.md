@@ -34,9 +34,9 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 
 ### **Obiettivi**
 
--Fotografare la situazione attuale dal SSN in termini di distribuzione regionale.
--Studiare la relazione tra:
+- Fotografare la situazione attuale dal SSN in termini di distribuzione regionale.
+- Studiare la relazione tra:
   1. Numerosità della popolazione e numero di posti letto ospedalieri.
   2. Numero di posti letto e numero di giornate di degenza.
--Formulare conclusioni e considerazioni per il miglioramento del SSN.
+- Formulare conclusioni e considerazioni per il miglioramento del SSN.
 
