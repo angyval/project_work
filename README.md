@@ -43,5 +43,5 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 
 ### **Fasi**
 
-![Immagine fasi](https://www.canva.com/design/DAGGvjDKhIw/7a0HegtxmMbxWzjNCaE1GQ/edit?utm_content=DAGGvjDKhIw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Immagine fasi]()
 
