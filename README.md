@@ -43,5 +43,5 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 
 ### **Fasi**
 
-![Immagine fasi]()
+![Immagine fasi](images/fasi.png)
 
