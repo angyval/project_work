@@ -1,6 +1,6 @@
 # Project Work
 ![Immagine progetto](images/infermiere.png)
-## La Sanità Pubblica
+# La Sanità Pubblica
 
 ## **Descrizione**
 Posti letto e degenze raccontano un'Italia a due velocità.
