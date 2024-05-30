@@ -1,5 +1,5 @@
 # Project Work
-![Immagine progetto](infermiere.png)
+![Immagine progetto](images/infermiere.png)
 ## La Sanità Pubblica
 
 ### **Descrizione**
