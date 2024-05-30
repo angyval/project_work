@@ -37,8 +37,8 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 
 - Fotografare la situazione attuale dal SSN in termini di distribuzione regionale.
 - Studiare la relazione tra:
-  1. Numerosità della popolazione e numero di posti letto ospedalieri.
-  2. Numero di posti letto e numero di giornate di degenza.
+  - Numerosità della popolazione e numero di posti letto ospedalieri.
+  - Numero di posti letto e numero di giornate di degenza.
 - Formulare conclusioni e considerazioni per il miglioramento del SSN.
 
 ### **Fasi**
@@ -52,3 +52,4 @@ Posti letto e degenze raccontano un'Italia a due velocità.
     - Secondo dataset: popolazione divisa per età e genere.
 - Data Cleaning con le best practices.
 - Analisi statistica: correlazione e regressione lineare per valutare grado di dipendenze delle variabili.
+![Immagine risultati analisi](images/analisistatistica.png)
