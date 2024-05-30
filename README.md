@@ -9,6 +9,7 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 * [Dipendenze](#Dipendenze)
 * [Installazione](#Installazione)
 * [Obiettivi](#Obiettivi)
+* [Schema delle fasi](#Fasi)
 * [Primo step: Analisi](#Analisi)
 * [Secondo step:Memorizzazione dei dati in un database SQL](#DatabaseSQL)
 * [Terzo step: Realizzazione Backend](#Backend)
@@ -39,4 +40,8 @@ Posti letto e degenze raccontano un'Italia a due velocità.
   1. Numerosità della popolazione e numero di posti letto ospedalieri.
   2. Numero di posti letto e numero di giornate di degenza.
 - Formulare conclusioni e considerazioni per il miglioramento del SSN.
+
+### **Fasi**
+
+![Immagine fasi](https://www.canva.com/design/DAGGvjDKhIw/7a0HegtxmMbxWzjNCaE1GQ/edit?utm_content=DAGGvjDKhIw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
