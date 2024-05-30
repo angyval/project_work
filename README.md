@@ -2,10 +2,10 @@
 ![Immagine progetto](images/infermiere.png)
 ## La Sanità Pubblica
 
-### **Descrizione**
+## **Descrizione**
 Posti letto e degenze raccontano un'Italia a due velocità.
 
-### **Indice:**
+## **Indice:**
 * [Dipendenze](#Dipendenze)
 * [Installazione](#Installazione)
 * [Obiettivi](#Obiettivi)
@@ -17,7 +17,7 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 * [Conclusioni](#Conclusioni)
 * [Considerazioni](#Considerazioni)
 
-### **Dipendenze**
+## **Dipendenze**
 
 1. Python 3.x,
 2. Jupyter Notebook,
@@ -26,7 +26,7 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 5. PHPMyAdmin (o un'altra interfaccia per gestire il database SQL),
 6. Power BI Desktop (per visualizzare il report).
 
-### **Installazione**
+## **Installazione**
 
 1. Clona il repository sul tuo computer.
 2. Assicurati di avere tutte le dipendenze installate correttamente.
@@ -34,7 +34,7 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 4. Avvia il backend Python utilizzando PyCharm o Jupyter Notebook.
 5. Apri il file del report con Power BI Desktop per visualizzare le analisi dei dati.
 
-### **Obiettivi**
+## **Obiettivi**
 
 - Fotografare la situazione attuale dal SSN in termini di distribuzione regionale.
 - Studiare la relazione tra:
@@ -42,11 +42,11 @@ Posti letto e degenze raccontano un'Italia a due velocità.
   - Numero di posti letto e numero di giornate di degenza.
 - Formulare conclusioni e considerazioni per il miglioramento del SSN.
 
-### **Fasi**
+## **Fasi**
 
 ![Immagine fasi](images/fasi.png)
 
-### **Analisi**
+## **Analisi**
 
 - Recupero dati dalla Banca Dati ISTAT(Istituto Nazionale di Statistica):
     - Primo dataset: posti letto, area di specializzazione clinica, giornate di degenza.
@@ -55,12 +55,12 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 - Analisi statistica: correlazione e regressione lineare per valutare grado di dipendenze delle variabili.
 ![Immagine risultati analisi](images/analisistatistica.png)
 
-### **DatabaseSQL**
+## **DatabaseSQL**
 
-## **Di seguito il Diagramma Entità-Relazione**
+### **Di seguito il Diagramma Entità-Relazione**
 ![Immagine diagramma](images/diagramma.png)
 
-### **Backend**
+## **Backend**
 
 Permette al pubblico di accedere e consultare i dati:
 - Creazione del modello delle classi (corrispondente alla tabella esistente sul database).
@@ -69,7 +69,7 @@ Permette al pubblico di accedere e consultare i dati:
 - Collegamento al server (Porzione di codice che attribuisce alle classi i valori corrispondenti presenti sul database).
 - Simulazione del risultato (L’utente richiede il totale deile giornate di degenza per regione e ottiene questo elenco, suddiviso per anno e specializzazione clinica).
 
-### **PowerBI**
+## **PowerBI**
 ![Immagine pagina 1](images/powerbi_page1.png)
 
 ![Immagine pagina 2](images/powerbi_2page_2020.png)
@@ -79,7 +79,7 @@ Permette al pubblico di accedere e consultare i dati:
 ![Immagine pagina 4](images/powerbi_page4_2020.png)
 
 
-### **Conclusioni**
+## **Conclusioni**
 
 - EVIDENTI DISPARITÀ REGIONALI: 
   Le statistiche dimostrano che il Piemonte ha circa 0,5 posti letto per ogni 100 abitanti mentre la Campania 0.1.
@@ -87,7 +87,7 @@ Permette al pubblico di accedere e consultare i dati:
 - CORRELAZIONE POSITIVA TRA DATI:
   Si è rinvenuta una correlazione lineare tra popolazione e posti letto, così come tra posti letto e giornate di degenza.
 
-### **Considerazioni**
+## **Considerazioni**
 
 - LIMITI:
   Complessità dei casi tipologia di posti letto/degenza qualità delle cure.
