@@ -17,12 +17,12 @@ Posti letto e degenze raccontano un'Italia a due velocità.
 
 Dipendenze
 
--Python 3.x,
--Jupyter Notebook,
--PyCharm,
--SQL (utilizzando MySQL o simili),
--PHPMyAdmin (o un'altra interfaccia per gestire il database SQL),
--Power BI Desktop (per visualizzare il report).
+1. Python 3.x,
+2. Jupyter Notebook,
+3. PyCharm,
+4. SQL (utilizzando MySQL o simili),
+5. PHPMyAdmin (o un'altra interfaccia per gestire il database SQL),
+6. Power BI Desktop (per visualizzare il report).
 
 Installazione
 
